@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KPS53
+- 👀 I’m interested in programming discord bots using Discord.js and D-Commando.js
+- 🌱 I’m currently learning React and JSX and improving my d-commando.js approach.
+- 📫 You can't reach me excepted if it's discord.js realted, cya!
