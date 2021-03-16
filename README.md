@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KPS53 
-- 👀 I'm a French Developer which is interested in programming discord bots using Discord.js and D-Commando.js
-- 🌱 I’m currently learning React and JSX and improving my d-commando.js approach.
+- 👀 I'm a French Developer which is interested in programming discord bots using Discord.js and Akairo framework
+- 🌱 I’m currently learning React and JSX and improving my d-akairo.js approach.
 - 📫 Feel free to contact me if you want help concerning DJS, my discord: KPS#0001
