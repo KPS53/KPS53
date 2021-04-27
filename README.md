@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KPS53 
-- 👀 I'm a French Developer which is interested in programming discord bots using Discord.js and Akairo framework
-- 🌱 I’m currently learning React and JSX and improving my d-akairo.js approach.
-- 📫 Feel free to contact me if you want help concerning DJS, my discord: KPS#0001
+- 👀 French developer. Got basic skills in React, JS, EJS, TS, HTML, CSS, SCSS/SASS. That's it.
+- Btw, i'm using Discord JS for bot projects.
+- 🌱 Learning instead of learning.
