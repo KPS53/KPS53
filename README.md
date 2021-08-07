@@ -1,5 +1,6 @@
-![Mes stats.](https://github-readme-stats.vercel.app/api?username=KPS53&show_icons=true&theme=synthwave)
-[![kps](https://github-readme-stats.vercel.app/api/wakatime?username=KPS53)](https://github.com/anuraghazra/github-readme-stats)
+Hi there !
 
+I'm KPS, 19, french developer.
+I love to write in Javascript, especially Typescript my programs.
 
-
+I got basic skills in HTML, SASS and learning Angular & React things.
